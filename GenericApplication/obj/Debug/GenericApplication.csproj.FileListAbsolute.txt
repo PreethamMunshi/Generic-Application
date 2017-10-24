@@ -1,0 +1,6 @@
+c:\users\preetham\documents\visual studio 2015\Projects\GenericApplication\GenericApplication\bin\Debug\GenericApplication.exe.config
+c:\users\preetham\documents\visual studio 2015\Projects\GenericApplication\GenericApplication\bin\Debug\GenericApplication.exe
+c:\users\preetham\documents\visual studio 2015\Projects\GenericApplication\GenericApplication\bin\Debug\GenericApplication.pdb
+c:\users\preetham\documents\visual studio 2015\Projects\GenericApplication\GenericApplication\obj\Debug\GenericApplication.csprojResolveAssemblyReference.cache
+c:\users\preetham\documents\visual studio 2015\Projects\GenericApplication\GenericApplication\obj\Debug\GenericApplication.exe
+c:\users\preetham\documents\visual studio 2015\Projects\GenericApplication\GenericApplication\obj\Debug\GenericApplication.pdb
